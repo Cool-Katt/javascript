@@ -14,6 +14,9 @@ translation of a coordinate pair.
 > In Geometry, [translation][wiki-translate] reffers to moving points, vectors or shapes the same distance in one
 > direction. It can be interpreted as addition of a constant to every point.
 
+> In Geometry, [translation][wiki-translate] refers to moving points, vectors or shapes the same distance in one direction.
+> It can be interpreted as addition of a constant to every point.
+
 ```javascript
 const moveCoordinatesRight2Px = translate2d(2, 0);
 const result = moveCoordinatesRight2Px(4, 8);
@@ -28,6 +31,9 @@ coordinate pair.
 > In geometry, uniform [scaling][wiki-scale] reffers to enlarging or shrinking vectors or shapes in the same
 > diraction. It can be interpreted as multiplying every point by a constant (scaling factor).
 
+> In geometry, uniform [scaling][wiki-scale] refers to enlarging or shrinking vectors or shapes in the same direction.
+> It can be interpreted as multiplying every point by a constant (scaling factor).
+>
 > For this exercise, assume only positive scaling values.
 
 ```javascript
